@@ -91,3 +91,5 @@ Seu defect foi criado com sucesso e logo aparecerá na aba ```Defects``` do seu 
 Após ser criado o Defect poderá ser editado, caso sinta necessidade para tal.
 
 ![Captura de Tela 2025-02-24 às 21 25 23](https://github.com/user-attachments/assets/c7e084cc-aa6d-4d1a-9333-1f002c2c7b89)
+
+> Caso seu teste ja tenha sido executado e um erro foi reportado, para cadastrar um defect será necessário retestar!
