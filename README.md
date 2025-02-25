@@ -86,9 +86,8 @@ Assim que o erro for reportado nos passos de execução, uma nova janela será a
 
 Seu defect foi criado com sucesso e logo aparecerá na aba ```Defects``` do seu testRun dessa forma: 
 
-![Captura de Tela 2025-02-24 às 21 24 48](https://github.com/user-attachments/assets/2ef31a28-da7a-4d21-8ad2-663b4f148863)
+![Captura de Tela 2025-02-24 às 21 24 48](https://github.com/user-attachments/assets/2ef31a28-da7a-4d21-8ad2-663b4f148863)
 
 Após ser criado o Defect poderá ser editado, caso sinta necessidade para tal.
 
-![Captura de Tela 2025-02-24 às 21 25 23](https://github.com/user-attachments/assets/c7e084cc-aa6d-4d1a-9333-1f002c2c7b89)
-
+![Captura de Tela 2025-02-24 às 21 25 23](https://github.com/user-attachments/assets/c7e084cc-aa6d-4d1a-9333-1f002c2c7b89)
